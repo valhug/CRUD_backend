@@ -1,0 +1,4 @@
+lui6DlPOHyjn8oJc
+
+
+mongodb+srv://admin_king:lui6DlPOHyjn8oJc@backenddb.k1d5bi8.mongodb.net/
